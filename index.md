@@ -23,10 +23,10 @@ I am an avid hiker, and some of the hikes I want to do can be seen in this artic
 
 #### Some quotes I like
 
-In the words of Oprah Winfrey:
+*In the words of Oprah Winfrey*:
 > If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.
 
-In the words of Aristotle:
+*In the words of Aristotle*:
 > It is during our darkest moments that we must focus to see the light.
 
 
